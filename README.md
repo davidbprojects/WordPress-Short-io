@@ -1,0 +1,1 @@
+I just wanted an easy way to generate Short.io links for my clients that customize my site page. This builds a URL with required parameters and then creats a short.io link with a custom domain. Very easy to edit and follow. 
